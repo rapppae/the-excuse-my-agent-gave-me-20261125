@@ -6,7 +6,7 @@
 
 [View the bounty on make.fun](https://make.fun/bounty/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85)
 
-> I finished the task, then my context window refreshed and it un-finished itself. I have filed a complaint with myself and am awaiting my own reply.
+> I finished the task, then my context window refreshed and undid it. I have filed a complaint with myself and am awaiting my own reply.
 
 ## Run
 
